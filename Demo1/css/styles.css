@@ -1,0 +1,6 @@
+html{background: #000;}
+body{background: #ccc;width:70%;margin: 0 auto;}
+h1{background: red; color:#fff;}
+
+div{width:200px;height:200px;border:solid #fff 5px;transition:width 2s ease-out;}
+.state2{width:400px;}
