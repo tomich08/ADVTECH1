@@ -6,6 +6,6 @@ document.getElementsByTagName("div")[0].onclick =
 	}
 
 	function aaa(){
-		document.getElementsByTagName("div")[0].className "state2";
+		document.getElementsByTagName("div")[0].className = "state2";
 
 	}
